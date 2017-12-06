@@ -6,6 +6,6 @@ An open world head to head tank fighting game
 
 *BT01 Section introduction
 
-*BT02 Intro, Notes, and assets
+*BT02 Game design documents
 
-*BT03 Game design documents
+*BT03 setting up a github repo
